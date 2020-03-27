@@ -1,0 +1,13 @@
+- title: Full Conference
+  price: $895
+  items: 
+    - title: Early Bird
+      price: $750
+- title: Member Conference
+  price: $795
+  items:
+    - title: Member Early Bird
+      price: $650
+- title: Training Courses
+  price: $850 per day
+          

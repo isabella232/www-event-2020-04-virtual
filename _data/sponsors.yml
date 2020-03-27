@@ -1,0 +1,122 @@
+
+- logo: https://owasp.org/assets/images/corp-member-logo/secure-code-warrior.png
+  name: Secure Code Warrior
+  url: https://securecodewarrior.com
+  type: Gold
+- logo: https://owasp.org/assets/images/corp-member-logo/altitude-networks.png
+  name: Altitude Networks
+  url : https://www.altitudenetworks.com/
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/bugcrowd.png
+  name: Bugcrowd
+  url : http://www.bugcrowd.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/detectify.png
+  name: Detectify
+  url : https://detectify.com
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/extrahop.png
+  name: ExtraHop
+  url : http://www.extrahop.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/intertrust.png
+  name: Intertrust
+  url : https://www.intertrust.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/lyft.png
+  name: Lyft
+  url : http://www.lyft.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/nowsecure.png
+  name: NowSecure
+  url : https://www.nowsecure.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/qualys.png
+  name: Qualys
+  url : https://www.qualys.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/ripstech.png
+  name: RIPS Technologies
+  url: https://ripstech.com
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/salt.png
+  name: Salt Security
+  url : https://salt.security/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/security-journey.png
+  name: Security Journey
+  url: https://www.securityjourney.com
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/sqreen.png
+  name: Sqreen
+  url : https://www.sqreen.com/
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/tala.png
+  name: Tala Security
+  url : http://www.talasecurity.io/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/veracode.png
+  name: Veracode
+  url : https://www.veracode.com/
+  backgroundSize: 125px
+  type: Silver    
+- logo: https://owasp.org/assets/images/corp-member-logo/whitesource.png
+  name: White Source Software
+  url : https://www.whitesourcesoftware.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/zeronorth.png
+  name: Zero North
+  url : https://www.zeronorth.io/
+  backgroundSize: 125px
+  type: Silver
+- logo: https://owasp.org/assets/images/corp-member-logo/acunetix.png
+  name: Acunetix
+  url: https://www.acunetix.com
+  backgroundSize: 125px
+  type: Sapphire
+- logo: https://owasp.org/assets/images/corp-member-logo/micro-focus.png
+  name: Micro Focus
+  url: https://www.microfocus.com/en-us/home
+  backgroundSize: 125px
+  type: Sapphire
+- logo: https://owasp.org/assets/images/corp-member-logo/netsparker.png
+  name: Netsparker
+  url: https://www.netsparker.com/
+  backgroundSize: 125px
+  type: Sapphire
+- logo: https://owasp.org/assets/images/corp-member-logo/rapid7.png
+  name: Rapid7
+  url: https://www.rapid7.com/
+  backgroundSize: 125px
+  type: Sapphire
+- logo: https://owasp.org/assets/images/corp-member-logo/salesforce.png
+  name: Salesforce
+  url: https://www.salesforce.com/
+  type: Sapphire
+- logo: https://owasp.org/assets/images/corp-member-logo/security-compass.png
+  name: Security Compass
+  url: https://www.securitycompass.com/
+  backgroundSize: 125px
+  type: Sapphire
+- logo: https://owasp.org/assets/images/corp-member-logo/security-innovation.png
+  name: Security Innovation
+  url : https://www.securityinnovation.com/
+  backgroundSize: 125px
+  type: Ruby
+- logo: https://owasp.org/assets/images/corp-member-logo/white-hat-security.png
+  name: Whitehat Security
+  url : https://www.whitehatsec.com/
+  backgroundSize: 125px
+  type: Ruby
