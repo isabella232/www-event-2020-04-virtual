@@ -1,16 +1,16 @@
-conferenceteam:
-  - name: Bhushan Gupta
-    image: team_bhushan_gupta.jpg
-  - name: Bil Corry
-    image: team_bil_corry.jpg
-  - name: Frank Rietta
-    image: team_frank_rietta.jpg
-  - name: Glen Gomez Zuazo
-    image: team_glen_gomez_zuazo.png
-  - name: Kevin Buck
-    image: team_kevin_buck.jpg
-  - name: Aaron Rinehart
-    image: team_aaron_rinehart.png
+# conferenceteam:
+#   - name: Bhushan Gupta
+#     image: team_bhushan_gupta.jpg
+#   - name: Bil Corry
+#     image: team_bil_corry.jpg
+#   - name: Frank Rietta
+#     image: team_frank_rietta.jpg
+#   - name: Glen Gomez Zuazo
+#     image: team_glen_gomez_zuazo.png
+#   - name: Kevin Buck
+#     image: team_kevin_buck.jpg
+#   - name: Aaron Rinehart
+#     image: team_aaron_rinehart.png
 staff: 
   - name: Mike McCamon 
     role: Executive Director
