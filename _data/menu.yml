@@ -6,16 +6,10 @@
       url : /keynotes/
     - title: Training
       url : /trainings/
-    - title: Call for Speakers/Trainers
-      url : /cfp_cft/
 - title: SPONSORING
   url: /sponsors/
 - title: ABOUT
   items:
-    - title: Volunteer
-      url  : /volunteer/
-    - title: Venue, Travel, & Lodging
-      url  : /venue/about/
     - title: Progam Team
       url  : /about/team/
     - title: OWASP Foundation
