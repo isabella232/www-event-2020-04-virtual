@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec San Francisco 2020
+title: OWASP Virtual AppSec Days April 2020
 layout: event
 
 ---
@@ -9,7 +9,7 @@ layout: event
 
 {{ site.data.event-details.pitch }}
 
-Registration opens in early 2020
+Registration opens April 6, 2020
 
 
 
