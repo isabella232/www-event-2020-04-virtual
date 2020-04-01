@@ -1,13 +1,5 @@
-- title: Full Conference
-  price: TBD
-  items: 
-    - title: Early Bird
-      price: TBD
-- title: Member Conference
-  price: TBD
-  items:
-    - title: Member Early Bird
-      price: TBD
+- title: Mini-conference
+  price: Free
 - title: Training Courses
-  price: $495 per day
+  price: $495 
           
