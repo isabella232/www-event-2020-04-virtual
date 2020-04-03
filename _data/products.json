@@ -57,6 +57,17 @@
                 "discountable": "True",
                 "display_order": "5"
             }
+        },
+        {
+            "id": "sku_H1yATX40ndXv3X",
+            "name": "Training: Attacking and Defending Containers, Kubernetes and Serverless",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Attacking and Securing an infrastructure or Applications leveraging containers, kubernetes and serverless technology requires specific skill set and a deep understanding of the underlying architecture. The Training will be filled with demos designed from real-world attacks to help understand all there is to attack and secure such applications. <strong><em>Presented by Nithin Jois</em></strong></p>",
+                "discountable": "True",
+                "display_order": "6"
+            }
         }
     ]
 }
