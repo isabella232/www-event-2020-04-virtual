@@ -75,7 +75,7 @@
             "amount": 49500,
             "metadata": {
                 "type": "regular",
-                "description": "<p>Action-packed Threat Modeling course for DevOps to improve reliability &amp; security of software. We teach a risk-based, iterative and incremental threat modeling method. At least 50% hands-on workshops covering the different stages of threat modeling on an incremental business driven CI/CD scenario for AWS. 94% satisfaction score O’Reilly Velocity. <strong><em>Presented by Sebastien Deleersnyder</em></strong></p>",
+                "description": "<p>Action-packed Threat Modeling course for DevOps to improve reliability &amp; security of software. We teach a risk-based, iterative and incremental threat modeling method. At least 50% hands-on workshops covering the different stages of threat modeling on an incremental business driven CI/CD scenario for AWS. 94% satisfaction score O’Reilly Velocity. <em>Presented by Sebastien Deleersnyder</em></p>",
                 "discountable": "True",
                 "display_order": "8"
             }
