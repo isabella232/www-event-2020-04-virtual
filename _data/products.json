@@ -11,7 +11,7 @@
                 "type": "regular",
                 "description": "<p>The major cause of API and web application insecurity is a lack of secure software development knowledge and practices. This highly intensive and interactive 1-day workshop provides essential application security training for web application and API developers. This workshop is a combination of lecture, security testing, and code review. <strong><em>Presented by Jim Manico</em></strong></p>",
                 "discountable": "True",
-                "display_order": "1"
+                "display_order": "2"
             }
         },
         {
