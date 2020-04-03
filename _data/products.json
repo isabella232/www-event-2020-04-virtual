@@ -53,7 +53,7 @@
             "amount": 49500,
             "metadata": {
                 "type": "regular",
-                "description": "<p>Attacking and Securing an infrastructure or Applications leveraging containers, kubernetes and serverless technology requires specific skill set and a deep understanding of the underlying architecture. The Training will be filled with demos designed from real-world attacks to help understand all there is to attack and secure such applications. <strong><em>Presented by Nithin Jois</em></strong></p>",
+                "description": "<p>Attacking and Securing an infrastructure or Applications leveraging containers, kubernetes and serverless technology requires specific skill set and a deep understanding of the underlying architecture. The Training will be filled with demos designed from real-world attacks to help understand all there is to attack and secure such applications. <em>Presented by Nithin Jois</em></p>",
                 "discountable": "True",
                 "display_order": "6"
             }
