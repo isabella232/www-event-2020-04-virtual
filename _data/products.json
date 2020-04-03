@@ -64,7 +64,7 @@
             "amount": 49500,
             "metadata": {
                 "type": "regular",
-                "description": "<p>\"Interactive training with group exercises for better understanding of the following topics.<br />\nAgile and DevOps basics<br />\nThe role of automation in development, deployment, and operations<br />\nAgile threat modeling<br />\nPatch management in DevOps environments<br />\nIncident handling feedback loops<br />\nCloud challenges and advantages<br />\nCombining SRE and DevSecOps\" <strong><em>Presented by Marinus Kuivenhoven</em></strong></p>",
+                "description": "<p>Interactive training with group exercises for better understanding of the following topics: (1) Agile and DevOps basics, (2) The role of automation in development, deployment, and operations, (3) Agile threat modeling<br />\nPatch management in DevOps environments, (4) Incident handling feedback loops, (5) Cloud challenges and advantages, (6)  Combining SRE and DevSecOps. <strong><em>Presented by Marinus Kuivenhoven</em></strong></p>",
                 "discountable": "True",
                 "display_order": "7"
             }
