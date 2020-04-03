@@ -31,7 +31,7 @@
             "amount": 49500,
             "metadata": {
                 "type": "regular",
-                "description": "<p>Have you been tasked with reviewing too much code in too little of time? What about new frameworks or languages you are unfamiliar with? This course addresses these common challenges in modern secure code review. Sharpen your code review techniques by gleaning from our adventures in code review and the lessons we’ve learned along the way. <strong><em>Presented by Ken Johnson and Seth Law</em></strong></p>",
+                "description": "<p>Have you been tasked with reviewing too much code in too little of time? What about new frameworks or languages you are unfamiliar with? This course addresses these common challenges in modern secure code review. Sharpen your code review techniques by gleaning from our adventures in code review and the lessons we’ve learned along the way. <em>Presented by Ken Johnson and Seth Law</em></p>",
                 "discountable": "True",
                 "display_order": "4"
             }
