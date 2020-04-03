@@ -1,14 +1,16 @@
 ---
 
-title: Global AppSec San Francisco Registration
+title: Virtual AppSec Days April 2020
 permalink: /register/
 layout: event_noheader
 
 ---
 
-## Registration Not Yet Open - Please Come Back Soon
+## Registration 
 
-Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation. Formerly known as AppSec USA, the Global AppSec Conference is the premier application security conference for developers and security experts. Join us for a celebration of leading application security technologies, speakers, prospects, and community, at this unique event that will build on everything you already know to expect from an OWASP Global Conference.
+Welcome to Virtual AppSec Days April 2020 presented by the OWASP Foundation. Please note that this a fully virtual event. Upon completion of your registration you will receive a confirmation. Seven days prior to the event you receive detailed instruction on how to log-on to the virtual platform. 
+
+You may also receive communications from the instructor with specific requirements or pre-work for your course. 
 
 
 {% include registration_form.md primary_color="#0079a7" %}
