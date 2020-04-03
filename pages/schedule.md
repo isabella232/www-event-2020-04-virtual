@@ -6,6 +6,4 @@ permalink: /schedule/
 
 ---
 
-# {{ page.title }}
-<br>
-The schedule is still being determined.  Please come back later.
+Come back later for a complete schedule

@@ -1,0 +1,49 @@
+.training-header {
+	padding: 1em;
+	background-color: #cecece;
+	color: black;
+	border-radius: 8px;
+	border: solid #cecece 1px;
+}
+
+.trainer-header{
+	line-height:.75em;
+	margin-left:.25em;
+}
+
+.training-desc {
+	margin: .5em;
+}
+
+.training-container{
+	height:90px;
+	width: 100%;
+	margin-left: 2em;
+}
+.trainer-container {
+	min-height:90px;line-height:90px;display:table-cell;
+}
+.info-container{
+	padding-left:.5em;
+	line-height:1.25em;
+}
+
+.bio-container {
+	margin-left: 1em;
+}
+
+.no-margin {
+	margin-left: 0;
+}
+
+.training-image {
+	width: 90px;
+	height: 90px;
+	border: 1px solid #cecece;
+	border-radius: 8px;
+	margin-right: .5em;
+	float:left;
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position:center;
+}

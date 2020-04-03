@@ -1,32 +1,31 @@
 ---
 
-title: Training Courses
+title: Trainings
 layout: event_noheader
 permalink: /trainings/
 
 ---
 
-# {{page.title}}
+<link rel="stylesheet" type="text/css" href="/assets/css/training.css">
+
+# {{ page.title }}
 <br>
-#### Training subject to change based on trainer availability.
 
-{% assign tpricing = site.data.pricing | where: 'title', 'Training Courses' %}
-Training prices are {{ tpricing[0].price }}
+* **Tuesday, April 28** and **Wednesday, April 29** at
+* 12:00pm to 4:00pm EDT/6:00pm to 10:00pm CEST 
 
-<section class='training'>
-{% for training_type in site.data.trainings %}
-<h3 style="background-color: #{{ training_type.color }};">{{ training_type.title }}</h3>
-<div class="tr-mobile-table" style="border-left-color: #{{ training_type.color }} !important;">
-    {% for class in training_type.classes %}
-    <div class="class-container">
-        <div class="class-title"><a href="{{ class.url }}">{{ class.title }}</a></div>
-        <div><strong>Days</strong>: {{ class.days }}</div>
-        <div><strong>Instructors</strong>: {{ class.trainer }}</div>
-        <div class="class-description">{{ class.description }}</div>
-    </div>
-    <hr>
-    {% endfor %}
-</div>
-{% endfor %}
+
+**Training subject to change based on trainer availability.**
+
+{% for trainer in site.data.trainings %}
+<section id="{{trainer.SectionId}}">
+<hr>
+<ul>
+<li><h3 class='training-header'>{{ trainer.Title }}</h3></li>
+<li class="training-desc">{{ trainer.Description }}</li>
+    <ul>
+        <li><hr><div class="training-container"><div class="training-image" style="background-image:url('{{trainer.Image}}');"></div><div class='trainer-container'><strong>Trainer:</strong><a href="/trainers/#{{trainer.SectionId}}">{{trainer.Name}}</a></div></div></li>
+    </ul>
+</ul>
 </section>
-
+{% endfor %}

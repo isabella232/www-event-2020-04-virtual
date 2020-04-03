@@ -1,0 +1,255 @@
+﻿- Type: Trainer
+  Name: Sebastien Deleersnyder
+  Email: seba@toreon.com
+  Image: https://owasp.wufoo.com/cabinet/3627cfa5-3b87-4973-8d5e-110013c0c524
+  Title: Hands-on threat modeling and tooling for DevSecOps
+  SectionId: sebastien_deleersnyder
+  Description: >-
+    Action-packed Threat Modeling course for DevOps to improve reliability &
+    security of software. We teach a risk-based, iterative and incremental
+    threat modeling method. At least 50% hands-on workshops covering the
+    different stages of threat modeling on an incremental business driven CI/CD
+    scenario for AWS. 94% satisfaction score O’Reilly Velocity.
+  Biography: >-
+    Seba is co-founder and CEO of Toreon. He started the Belgian OWASP chapter,
+    co-leads the OWASP SAMM project, and co-founded the yearly BruCON
+    conference. With a background in development and many years of experience in
+    security, Seba has trained countless developers to create more secure
+    software. He adapts application security models to the evolving field of
+    DevOps and brings Threat Modeling to a wider audience (including teaching
+    Whiteboard Hacking at Black Hat).
+  Twitter: 'Sebadele'
+- Type: Trainer
+  Name: Marinus Kuivenhoven
+  Email: mjk303@gmail.com
+  Image: https://owasp.wufoo.com/cabinet/95e54100-5844-4b56-8044-26d4caa4a2cf
+  Title: DevOps for CISO
+  SectionId: marinus_kuivenhoven
+  Description: >
+    Interactive training with group exercises for better understanding of the
+    following topics.
+
+    Agile and DevOps basics
+
+    The role of automation in development, deployment, and operations
+
+    Agile threat modeling
+
+    Patch management in DevOps environments
+
+    Incident handling feedback loops
+
+    Cloud challenges and advantages
+
+    Combining SRE and DevSecOps
+  Biography: >
+    Marinus works as a Senior Security Consultant at Xebia Security. He has 15
+    years of experience in implementing security in the culture, teams and
+    development life cycles at organizations. But also, the underlying
+    activities like security requirements, architectural threat analysis, source
+    code reviews, social engineering, penetration testing, and red teaming.
+
+
+    Marinus also developed several courses on security and has given them to
+    well over 4000 participants. This includes every role from engineers (i.e.
+    UWV, CZ, Vattenfall) to executives (i.e. Security Academy, Vodafone, PostNL,
+    CIO café), colleagues but also colleges (Fontys, Avans, Windesheim) and
+    universities (Groningen, Radboud, Twente, Eindhoven). He has written
+    articles for magazines like Computable, Automatiseringsgids and We Love IT.
+    Also, he has spoken on several international events including OWASP, ROOTs,
+    Hack in the Box, Open Source Developer Conference, VIAG congress, 'Week van
+    de Inspiratie', Landelijk Architectuur Congress and Engineering World.
+
+
+    Lastly, Marinus has helped many organizations to raise their maturity level
+    of security in the most efficient way. Clients include major players in the
+    retail, wholesale, insurance, telecommunication and transport industries as
+    well as the Dutch government.
+  Twitter: mjk303
+- Type: Trainer
+  Name: Nithin Jois
+  Email: nithin.jois@we45.com
+  Image: https://owasp.wufoo.com/cabinet/3c6e074e-7a24-4142-a648-53a434a2bdf3
+  Title: 'Attacking and Defending Containers, Kubernetes and Serverless'
+  SectionId: nithin_jois
+  Description: >-
+    Attacking and Securing an infrastructure or Applications leveraging
+    containers, kubernetes and serverless technology requires specific skill set
+    and a deep understanding of the underlying architecture. The Training will
+    be filled with demos designed from real-world attacks to help understand all
+    there is to attack and secure such applications.
+  Biography: >-
+    Nithin Jois is a Solutions Engineer at we45 - a focused Application Security
+    company. He has helped build ‘Orchestron’ - A leading Application
+    Vulnerability Correlation and Orchestration Framework. He is experienced in
+    Orchestrating containerized deployments securely to Production. Nithin and
+    his team have extensively used Docker APIs as a cornerstone to most of we45
+    developed security platforms and he has also helped clients of we45 deploy
+    their Applications securely.
+
+    Nithin is a passionate Open Source enthusiast and is the co-lead-developer
+    of ThreatPlaybook - An Open Source framework that facilitates Threat
+    Modeling as Code married with Application Security Automation on a single
+    Fabric. He has also written multiple libraries that complement
+    ThreatPlaybook.
+
+    Nithin is an automation junkie who has built Scalable Scanner Integrations
+    that leverage containers to the hilt and is passionate about Security,
+    Containers and Serverless technology. He speaks at meetup groups, webinars
+    and training sessions. He participates in multiple CTF events and has worked
+    on creating Intentionally Vulnerable Applications for CTF competitions and
+    Secure Code Training.
+
+    Nithin was a trainer and speaker at events like AppSecDC-2019,
+    AppSecUS-2018, SHACK-2019, AppSecCali-2019, DefCon-2019, BlackHat USA 2019,
+    AppSecCali-2020 and many more. In his spare time, he loves reading about
+    personal finance, leadership, fitness, cryptocurrency, and other such
+    topics. Nithin is an avid traveler and loves sharing stories over a cup of
+    hot coffee.
+  Twitter: 'bondijois'
+- Type: Trainer
+  Name: Abraham Aranguren
+  Email: abraham@7asecurity.com
+  Image: https://owasp.wufoo.com/cabinet/88b6e5da-6614-4ca9-bcf8-e24dd988ec54
+  Title: Hacking iOS and IoT apps by Example
+  SectionId: abraham_aranguren
+  Description: >-
+    Learn about iOS & IoT app security by improving your mobile security testing
+    kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody
+    interested in mobile app security.
+
+
+    All action, no fluff, skills gained are 100% hands-on, includes lifetime
+    access to training portal with detailed video recordings + all future
+    updates for free.
+  Biography: >-
+    After 13 years in itsec and 20 in IT Abraham is now the CEO of 7ASecurity
+    (7asecurity.com), a company specializing in penetration testing of
+    web/mobile apps, infrastructure, code reviews and training. Former senior
+    penetration tester / team lead at Cure53 (cure53.de) and Version 1
+    (www.version1.com). Creator of “Practical Web Defense” - a hands-on
+    eLearnSecurity attack / defense course (www.elearnsecurity.com/PWD), OWASP
+    OWTF project leader, an OWASP flagship project (owtf.org), Major degree and
+    Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH,
+    MCSE:Security, MCSA:Security, Security+. As a shell scripting fan trained by
+    unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as
+    @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple
+    presentations, pentest reports and recordings can be found at
+    https://7asecurity.com/publications 
+  Twitter: 7asecurity
+- Type: Trainer
+  Name: Seth Law
+  Email: seth@zactly.io
+  Image: https://owasp.wufoo.com/cabinet/3fdc9684-54c4-4a6d-b457-ff80ce90187f
+  Title: Seth & Ken's Excellent Adventures (in Secure Code Review)
+  Description: >-
+    Have you been tasked with reviewing too much code in too little of time?
+    What about new frameworks or languages you are unfamiliar with? This course
+    addresses these common challenges in modern secure code review. Sharpen your
+    code review techniques by gleaning from our adventures in code review and
+    the lessons we’ve learned along the way.
+  Biography: >-
+    Ken Johnson, has been hacking web applications professionally for 11 years
+    and given security training for 8 of those years. Ken is both a breaker and
+    builder and currently works on the GitHub application security team.
+    Previously, Ken has spoken at RSA, You Sh0t the Sheriff, Insomnihack, CERN, 
+    DerbyCon, AppSec USA, AppSec DC, AppSec California, DevOpsDays DC, LASCON,
+    RubyNation, and numerous Ruby, OWASP, and AWS events about appsec, devops
+    security, and AWS security. Ken’s current projects are WeirdAAL, OWASP
+    Railsgoat, and the Absolute AppSec podcast with Seth Law.
+
+
+    Seth Law is an experienced Application Security Professional with over 15
+    years of experience in the computer security industry. During this time,
+    Seth has worked within multiple disciplines in the security field, from
+    software development to network protection, both as a manager and individual
+    contributor. Seth has honed his application security skills using offensive
+    and defensive techniques, including tool development. Seth is employed as a
+    security consultant, hosts the Absolute AppSec podcast with Ken Johnson, and
+    is a regular speaker at developer meetups and security events, including
+    Blackhat, Defcon, CactusCon, and other regional conferences.
+  Twitter: sethlaw
+- Type: Trainer
+  Name: Ken Johnson
+  Email: ken@zactly.io
+  Image: https://owasp.wufoo.com/cabinet/e28660cf-7b4b-4da9-82a3-f9ad35d6e233
+  Title: Seth & Ken's Excellent Adventures (in Secure Code Review)
+  SectionId: ken_johnson
+  Description: >-
+    Have you been tasked with reviewing too much code in too little of time?
+    What about new frameworks or languages you are unfamiliar with? This course
+    addresses these common challenges in modern secure code review. Sharpen your
+    code review techniques by gleaning from our adventures in code review and
+    the lessons we’ve learned along the way.
+  Biography: >-
+    Ken Johnson, has been hacking web applications professionally for 11 years
+    and given security training for 8 of those years. Ken is both a breaker and
+    builder and currently works on the GitHub application security team.
+    Previously, Ken has spoken at RSA, You Sh0t the Sheriff, Insomnihack, CERN, 
+    DerbyCon, AppSec USA, AppSec DC, AppSec California, DevOpsDays DC, LASCON,
+    RubyNation, and numerous Ruby, OWASP, and AWS events about appsec, devops
+    security, and AWS security. Ken’s current projects are WeirdAAL, OWASP
+    Railsgoat, and the Absolute AppSec podcast with Seth Law.
+
+
+    Seth Law is an experienced Application Security Professional with over 15
+    years of experience in the computer security industry. During this time,
+    Seth has worked within multiple disciplines in the security field, from
+    software development to network protection, both as a manager and individual
+    contributor. Seth has honed his application security skills using offensive
+    and defensive techniques, including tool development. Seth is employed as a
+    security consultant, hosts the Absolute AppSec podcast with Ken Johnson, and
+    is a regular speaker at developer meetups and security events, including
+    Blackhat, Defcon, CactusCon, and other regional conferences.
+  Twitter: 'cktricky'
+- Type: Trainer
+  Name: Rohit Salecha
+  Email: rohit@notsosecure.com
+  Image: https://owasp.wufoo.com/cabinet/fb9ffb19-a222-46d9-9105-112afc0ddc65
+  Title: DevSecOps - Automate Security in DevOps
+  SectionId: rohit_salecha
+  Description: >-
+    Code gets shipped into a DevOps environment at a blazing speed, making it
+    extremely difficult to address security at each new release.In this training
+    we shall discuss how to address security issues by automating security in a
+    DevOps environment utilising various tools and techniques. Attendees will
+    also get a DevSecOps-Lab used during the course.
+  Biography: >-
+    Rohit is an Associate Director with NotSoSecure, a Claranet Group company.
+    He is a technology enthusiast with over 9+ years of experience in hacking
+    anything that runs on binaries and is on the ground. He also delivers one of
+    the bestselling classes by NotSoSecure titled 'Application Security for
+    Developers' and ‘DevSecOps’. He has also trained and spoken at premier
+    security conferences like Blackhat,OWASP AppSec and Nullcon.
+
+    He is humbled to be part of the list of “50 Influential DevSecOps
+    Professional - Peerlyst 2019”.
+
+    He also loves to reverse engineer binaries and mobile applications and find
+    and exploit vulnerabilities in them. He spends his free time learning new
+    technologies,programming languages or maybe even tinkering with open source
+    tools.
+  Twitter: salecharohit
+- Type: Trainer
+  Name: Jim Manico
+  Email: jim@manicode.com
+  Image: https://owasp.wufoo.com/cabinet/7477f1fc-86bf-4d40-b2aa-8ce2b455fd1f
+  Title: Building Secure API's and Web Applications
+  SectionId: jim_manico
+  Description: >-
+    The major cause of API and web application insecurity is a lack of secure
+    software development knowledge and practices. This highly intensive and
+    interactive 1-day workshop provides essential application security training
+    for web application and API developers. This workshop is a combination of
+    lecture, security testing, and code review
+  Biography: >-
+    Jim Manico is the founder of Manicode Security where he trains software
+    developers on secure coding and security engineering. He is also an
+    investor/advisor for BitDiscovery, Nucleus Security, Secure Circle and
+    Signal Sciences. Jim is a frequent speaker on secure software practices, is
+    a member of the Java Champion community, and is the author of "Iron-Clad
+    Java: Building Secure Web Applications" from Oracle Press. Jim also
+    volunteers for the OWASP foundation as the project co-lead for the OWASP
+    Application Security Verification Standard and the OWASP Proactive Controls.
+    For more information, see http://www.linkedin.com/in/jmanico.
+  Twitter: manicode
