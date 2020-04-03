@@ -1,31 +1,83 @@
 {
-    "id": "prod_GsayWpWCuu0eAO",
-    "name": "Global Test",
+    "id": "prod_H1xecZzE1wdQl8",
+    "name": "Virtual AppSec Days April 2020",
     "currency": "usd",
     "products": [
         {
-            "id": "sku_Gsb0c0K3yd3Vbn",
-            "name": "Early Bird - Full Conference",
-            "amount": 50000,
+            "id": "sku_H1xiPmSNVltwq9",
+            "name": "Training: Building Secure API's and Web Applications",
+            "amount": 49500,
             "metadata": {
                 "type": "regular",
-                "display_end": "2020-03-10",
-                "description": "<p>Save $150 on Early Bird Registration. Includes two days conference, meals, receptions, and exhibition</p>",
+                "description": "<p>The major cause of API and web application insecurity is a lack of secure software development knowledge and practices. This highly intensive and interactive 1-day workshop provides essential application security training for web application and API developers. This workshop is a combination of lecture, security testing, and code review. <em>Presented by Jim Manico</em></p>",
                 "discountable": "True",
                 "display_order": "2"
             }
         },
         {
-            "id": "sku_Gsb1nABsKPHSfT",
-            "name": "Training - iOS Defensive Development Strategies",
-            "amount": 150000,
+            "id": "sku_H1xk4AgbtAFKU5",
+            "name": "Training: DevSecOps - Automate Security in DevOps",
+            "amount": 49500,
             "metadata": {
                 "type": "regular",
-                "inventory": "2",
-                "starting_inventory": "2",
-                "description": "<p>Learn more about iOS vulnerabilities and ways to mitigate issues. <a href=\"https://apple.com\">Apple.com</a>.</p>\n<p>And smore text</p>\n<ul>\n<li>A list of items too</li>\n<li>More list items</li>\n<li>and a third.</li>\n</ul>",
-                "display_order": "1",
-                "discountable": "False"
+                "description": "<p>Code gets shipped into a DevOps environment at a blazing speed, making it extremely difficult to address security at each new release.In this training we shall discuss how to address security issues by automating security in a DevOps environment utilising various tools and techniques. Attendees will also get a DevSecOps-Lab used during the course. <em>Presented by Rohit Salecha</em></p>",
+                "discountable": "True",
+                "display_order": "1"
+            }
+        },
+        {
+            "id": "sku_H1y85jGfx9gmi7",
+            "name": "Training: Seth & Ken's Excellent Adventures (in Secure Code Review)",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Have you been tasked with reviewing too much code in too little of time? What about new frameworks or languages you are unfamiliar with? This course addresses these common challenges in modern secure code review. Sharpen your code review techniques by gleaning from our adventures in code review and the lessons we’ve learned along the way. <em>Presented by Ken Johnson and Seth Law</em></p>",
+                "discountable": "True",
+                "display_order": "4"
+            }
+        },
+        {
+            "id": "sku_H1y9FEAYaVoiud",
+            "name": "Training: Hacking Android, iOS and IoT apps by Example",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Learn about Android &amp; IoT app security by improving your mobile security testing kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody interested in mobile app security. All action, no fluff, skills gained are 100% hands-on, includes lifetime access to training portal with detailed video recordings + all future updates for free. <em>Presented by Abraham Aranguren</em></p>",
+                "discountable": "True",
+                "display_order": "5"
+            }
+        },
+        {
+            "id": "sku_H1yATX40ndXv3X",
+            "name": "Training: Attacking and Defending Containers, Kubernetes and Serverless",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Attacking and Securing an infrastructure or Applications leveraging containers, kubernetes and serverless technology requires specific skill set and a deep understanding of the underlying architecture. The Training will be filled with demos designed from real-world attacks to help understand all there is to attack and secure such applications. <em>Presented by Nithin Jois</em></p>",
+                "discountable": "True",
+                "display_order": "6"
+            }
+        },
+        {
+            "id": "sku_H1yCdB8VCO5j2d",
+            "name": "Training: DevOps for CISO",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Interactive training with group exercises for better understanding of the following topics: (1) Agile and DevOps basics, (2) The role of automation in development, deployment, and operations, (3) Agile threat modeling, (4) Patch management in DevOps environments, (5) Incident handling feedback loops, (6) Cloud challenges and advantages, (7) Combining SRE and DevSecOps. <em>Presented by Marinus Kuivenhoven</em></p>",
+                "discountable": "True",
+                "display_order": "7"
+            }
+        },
+        {
+            "id": "sku_H1yCWioFa4VeId",
+            "name": "Training: Hands-on threat modeling and tooling for DevSecOps",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Action-packed Threat Modeling course for DevOps to improve reliability &amp; security of software. We teach a risk-based, iterative and incremental threat modeling method. At least 50% hands-on workshops covering the different stages of threat modeling on an incremental business driven CI/CD scenario for AWS. 94% satisfaction score O’Reilly Velocity. <em>Presented by Sebastien Deleersnyder</em></p>",
+                "discountable": "True",
+                "display_order": "8"
             }
         }
     ]
