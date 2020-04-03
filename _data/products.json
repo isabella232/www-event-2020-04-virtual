@@ -57,6 +57,17 @@
                 "discountable": "True",
                 "display_order": "6"
             }
+        },
+        {
+            "id": "sku_H1yCdB8VCO5j2d",
+            "name": "Training: DevOps for CISO",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>\"Interactive training with group exercises for better understanding of the following topics.<br />\nAgile and DevOps basics<br />\nThe role of automation in development, deployment, and operations<br />\nAgile threat modeling<br />\nPatch management in DevOps environments<br />\nIncident handling feedback loops<br />\nCloud challenges and advantages<br />\nCombining SRE and DevSecOps\" ***Presented by Marinus Kuivenhoven\"</p>",
+                "discountable": "True",
+                "display_order": "7"
+            }
         }
     ]
 }
