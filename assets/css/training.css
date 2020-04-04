@@ -18,11 +18,17 @@
 .training-container{
 	height:90px;
 	width: 100%;
-	margin-left: 2em;
+	padding-left: 2em;
 }
+
 .trainer-container {
 	min-height:90px;line-height:90px;display:table-cell;
 }
+
+.trainer-container-mobile {
+	display:none;
+}
+
 .info-container{
 	padding-left:.5em;
 	line-height:1.25em;
@@ -46,4 +52,36 @@
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-position:center;
+}
+
+
+@media (max-width: 1024px) {
+	
+}
+
+@media (max-width: 800px) {
+	.trainer-container {
+		display:none;
+	}
+
+	.trainer-container-mobile {
+		display:block;
+	}
+
+	.trainer-header{
+		line-height:1.2em;
+		margin-left:1.2em;
+	}
+
+	.training-container {
+		height: 145px;
+	}
+}
+
+@media (max-width: 550px) {
+	
+}
+
+@media (max-width: 401px) {
+	
 }

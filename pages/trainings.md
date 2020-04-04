@@ -25,6 +25,7 @@ permalink: /trainings/
 <li class="training-desc">{{ trainer.Description }}</li>
     <ul>
         <li><hr><div class="training-container"><div class="training-image" style="background-image:url('{{trainer.Image}}');"></div><div class='trainer-container'><strong>Trainer:</strong><a href="/trainers/#{{trainer.SectionId}}">{{trainer.Name}}</a></div></div></li>
+        <li><div class='trainer-container-mobile'><strong>Trainer:</strong><a href="/trainers/#{{trainer.SectionId}}">{{trainer.Name}}</a></div></li>
     </ul>
 </ul>
 </section>
