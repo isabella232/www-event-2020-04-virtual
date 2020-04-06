@@ -9,7 +9,7 @@ layout: event
 
 {{ site.data.event-details.pitch }}
 
-Registration opens April 6, 2020
+Registration is open!
 
 
 
