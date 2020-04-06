@@ -9,8 +9,6 @@ layout: event
 
 {{ site.data.event-details.pitch }}
 
-Registration is open!
-
 
 
 
