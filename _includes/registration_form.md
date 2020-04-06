@@ -27,24 +27,6 @@
   text-align: right;
 }
 
-.cta-button {
-  display: inline-block;
-  cursor: pointer;
-  padding: 9px 15px;
-  border-width: 0;
-  border-radius: 4.5px;
-  font-size: 18px;
-  color: white;
-  text-decoration: none !important;
-  background-color: #e6e6e6;
-  color: #444;
-}
-
-.cta-button.selected, .cta-button.selected:hover {
-  background-color: {{ include.primary_color | default: "#ff0000" }};
-  color: #ffffff;
-}
-
 .ticket-button {
   border: 1px solid #d3d3d3;
   font-size: 85%;
@@ -231,15 +213,16 @@
     <h2 style="margin-bottom: 30px;">Select your Tickets</h2>
     <div class="error-text" v-if="errors.product">{{ errors.product[0] }}</div>
     <div class="ticket-option" v-for="product in productListing">
-      <div class="ticket-option-information">
-        <div class="ticket-option-title" v-on:click="toggleProduct(product.sku)">{{ product.name }}</div>
-        <div class="ticket-option-description" v-html="product.description"></div>
-      </div>
-      <div class="ticket-buy-button">
-        <div class="cta-button grey" v-on:click="toggleProduct(product.sku)" v-bind:class="{ selected: selectedProducts.includes(product.sku) }">
-          <div class="product-price">{{ product.price }}</div>
+        <div :id="product.sku" class="ticket-option-information">
+        <section :id="product.sku"></section>
+          <div class="ticket-option-title" v-on:click="toggleProduct(product.sku)">{{ product.name }}</div>
+          <div class="ticket-option-description" v-html="product.description"></div>
         </div>
-      </div>
+        <div class="ticket-buy-button">
+          <div class="cta-button grey" v-on:click="toggleProduct(product.sku)" v-bind:class="{ selected: selectedProducts.includes(product.sku) }">
+            <div class="product-price">{{ product.price }}</div>
+          </div>
+        </div>
     </div>
   </div>
 
@@ -375,6 +358,16 @@ window.addEventListener('load', function () {
     },
     components: {
       MultiSelect: window.VueMultiselect.default
+    },
+    created: function(){
+      const queryParams = new URLSearchParams(window.location.search);
+      if (queryParams.has('id')) {
+        prod_sku = queryParams.get('id');
+        this.toggleProduct(prod_sku);
+        this.$nextTick(function () {
+          VueScrollTo.scrollTo('#' + prod_sku);
+        })
+      }
     },
     computed: {
       productListing: function () {

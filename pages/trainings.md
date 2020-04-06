@@ -18,14 +18,15 @@ permalink: /trainings/
 **Training subject to change based on trainer availability.**
 
 {% for trainer in site.data.trainings %}
-<section id="{{trainer.SectionId}}">
+<section class="trainer-section" id="{{trainer.SectionId}}">
 <hr>
 <ul>
-<li><h3 class='training-header'>{{ trainer.Title }}</h3></li>
+<li><h3 class='training-header'>{{ trainer.Title }}<button class="cta-button grey" onclick="location.href='{{trainer.URL}}';" style="margin-left:1em;cursor: pointer;max-width=80px;">Register</button></h3></li>
 <li class="training-desc">{{ trainer.Description }}</li>
     <ul>
-        <li><hr><div class="training-container"><div class="training-image" style="background-image:url('{{trainer.Image}}');"></div><div class='trainer-container'><strong>Trainer:</strong><a href="/trainers/#{{trainer.SectionId}}">{{trainer.Name}}</a></div></div></li>
-        <li><div class='trainer-container-mobile'><strong>Trainer:</strong><a href="/trainers/#{{trainer.SectionId}}">{{trainer.Name}}</a></div></li>
+        {% for tr in trainer.Trainers %}
+        <li style="font-size:smaller;"><hr><div class="training-container"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div><div class='trainer-container'><a href="/trainers/#{{trainer.SectionId}}">{{tr.Name}}</a></div></div><div class='trainer-container-mobile'><a href="/trainers/#{{trainer.SectionId}}">{{tr.Name}}</a></div>{{tr.Biography}}</li>
+        {% endfor %}
     </ul>
 </ul>
 </section>

@@ -22,7 +22,7 @@ permalink: /trainers/
              <strong>Class:</strong><a href="/trainings/#{{trainer.SectionId}}">{{ trainer.Title }}</a>
              </div>
 </div></div></div></li>
-<li class='bio-container'><strong>Bio:</strong>{{trainer.Biography}}</li>
+<li class='bio-container'>{{trainer.Biography}}</li>
 </ul>
 </section>
 {% endfor %}

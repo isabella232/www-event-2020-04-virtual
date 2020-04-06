@@ -1,9 +1,5 @@
 .training-header {
-	padding: 1em;
-	background-color: #cecece;
-	color: black;
-	border-radius: 8px;
-	border: solid #cecece 1px;
+
 }
 
 .trainer-header{
@@ -27,6 +23,10 @@
 
 .trainer-container-mobile {
 	display:none;
+}
+
+.trainer-section:nth-child(even){
+	background-color: #f3f4f6;
 }
 
 .info-container{
