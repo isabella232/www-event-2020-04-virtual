@@ -21,7 +21,7 @@ The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. We will 
 <ul>
   {% assign trainings = site.data.trainings | sort: 'Title' %}
   {% for trainer in trainings %}
-    <li><a href="/trainings/{{trainer.URL}}">{{ trainer.Title }}</a></li>
+    <li><a href="{{trainer.URL}}">{{ trainer.Title }}</a></li>
   {% endfor %}
 </ul>
 
