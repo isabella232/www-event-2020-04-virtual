@@ -15,10 +15,13 @@ The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. We will 
      
 ### Training Sessions hosted 12pm ET (1800 CET) Include
 
+
+* #### Register for the class you want by clicking below 
+* #### (more information can be found on the [Training](/trainings/) page)
 <ul>
   {% assign trainings = site.data.trainings | sort: 'Title' %}
   {% for trainer in trainings %}
-    <li><a href="{{trainer.URL}}">{{ trainer.Title }}</a></li>
+    <li><a href="/trainings/{{trainer.URL}}">{{ trainer.Title }}</a></li>
   {% endfor %}
 </ul>
 
