@@ -1,4 +1,4 @@
-﻿- Type: Trainer
+﻿- Type: Training
   Trainers:
     - Name: Sebastien Deleersnyder
       Email: seba@toreon.com
@@ -22,7 +22,7 @@
     threat modeling method. At least 50% hands-on workshops covering the
     different stages of threat modeling on an incremental business driven CI/CD
     scenario for AWS. 94% satisfaction score O’Reilly Velocity.
-- Type: Trainer
+- Type: Training
   Trainers:
     - Name: Dave van Stein
       Email: dvanstein@xebia.com
@@ -53,7 +53,7 @@
     <li>Cloud challenges and advantages</li>
     <li>Combining SRE and DevSecOps</li>
     </ul>
-- Type: Trainer
+- Type: Training
   Trainers:
     - Name: Nithin Jois
       Email: nithin.jois@we45.com
@@ -97,7 +97,7 @@
     and a deep understanding of the underlying architecture. The Training will
     be filled with demos designed from real-world attacks to help understand all
     there is to attack and secure such applications.
-- Type: Trainer
+- Type: Training
   Trainers:
     - Name: Abraham Aranguren
       Email: abraham@7asecurity.com
@@ -129,7 +129,7 @@
     All action, no fluff, skills gained are 100% hands-on, includes lifetime
     access to training portal with detailed video recordings + all future
     updates for free.
-- Type: Trainer
+- Type: Training
   Trainers:
     - Name: Seth Law
       Email: seth@zactly.io
@@ -169,7 +169,7 @@
     addresses these common challenges in modern secure code review. Sharpen your
     code review techniques by gleaning from our adventures in code review and
     the lessons we’ve learned along the way. 
-- Type: Trainer
+- Type: Training
   Trainers:
     - Name: Rohit Salecha
       Email: rohit@notsosecure.com
@@ -200,7 +200,7 @@
     we shall discuss how to address security issues by automating security in a
     DevOps environment utilising various tools and techniques. Attendees will
     also get a DevSecOps-Lab used during the course.
-- Type: Trainer
+- Type: Training
   Trainers:
     - Name: Jim Manico
       Email: jim@manicode.com
@@ -226,7 +226,7 @@
     interactive 1-day workshop provides essential application security training
     for web application and API developers. This workshop is a combination of
     lecture, security testing, and code review
-- Type: Trainer
+- Type: Training
   Trainers:
     - Name: John DiLeo
       Email: john.dileo@owasp.org
@@ -259,7 +259,7 @@
     We start with necessary background information, walk through techniques for 
     building models for new and legacy systems, and wrap up with an approach for 
     introducing TM into your SDLC.
-- Type: Trainer
+- Type: Training
   Trainers:
     - Name: Charles Givre
       Email: charles.givre@gtkcyber.com
