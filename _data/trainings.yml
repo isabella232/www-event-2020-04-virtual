@@ -20,11 +20,11 @@
     Whiteboard Hacking at Black Hat).
   Twitter: 'Sebadele'
 - Type: Trainer
-  Name: Marinus Kuivenhoven
-  Email: mjk303@gmail.com
-  Image: https://owasp.wufoo.com/cabinet/95e54100-5844-4b56-8044-26d4caa4a2cf
+  Name: Dave van Stein
+  Email: dvanstein@xebia.com
+  Image: https://owasp.wufoo.com/cabinet/b4a3d102-1112-4659-be39-8ea5be80d0b3
   Title: DevOps for CISO
-  SectionId: marinus_kuivenhoven
+  SectionId: dave_van_stein
   Description: >
     Interactive training with group exercises for better understanding of the
     following topics.
@@ -43,29 +43,15 @@
 
     Combining SRE and DevSecOps
   Biography: >
-    Marinus works as a Senior Security Consultant at Xebia Security. He has 15
-    years of experience in implementing security in the culture, teams and
-    development life cycles at organizations. But also, the underlying
-    activities like security requirements, architectural threat analysis, source
-    code reviews, social engineering, penetration testing, and red teaming.
+    Dave van Stein is security and privacy consultant and DevOps enthusiast at Xebia. 
+    Acting as trainer, mentor, coach, and technical consultant he helps clients achieving a 
+    higher maturity level by integrating security and privacy controls into the Agile and 
+    DevOps way of working.
 
-
-    Marinus also developed several courses on security and has given them to
-    well over 4000 participants. This includes every role from engineers (i.e.
-    UWV, CZ, Vattenfall) to executives (i.e. Security Academy, Vodafone, PostNL,
-    CIO café), colleagues but also colleges (Fontys, Avans, Windesheim) and
-    universities (Groningen, Radboud, Twente, Eindhoven). He has written
-    articles for magazines like Computable, Automatiseringsgids and We Love IT.
-    Also, he has spoken on several international events including OWASP, ROOTs,
-    Hack in the Box, Open Source Developer Conference, VIAG congress, 'Week van
-    de Inspiratie', Landelijk Architectuur Congress and Engineering World.
-
-
-    Lastly, Marinus has helped many organizations to raise their maturity level
-    of security in the most efficient way. Clients include major players in the
-    retail, wholesale, insurance, telecommunication and transport industries as
-    well as the Dutch government.
-  Twitter: mjk303
+    He has several publications to his name and is ISEB/ISTQB, CIEH and GWAPT certified. Dave 
+    teaches you how to hack web apps, automate Security, work in a DevOps way and much more 
+    during his courses!
+  Twitter: Dave_von_S
 - Type: Trainer
   Name: Nithin Jois
   Email: nithin.jois@we45.com
@@ -253,3 +239,31 @@
     Application Security Verification Standard and the OWASP Proactive Controls.
     For more information, see http://www.linkedin.com/in/jmanico.
   Twitter: manicode
+- Type: Trainer
+  Name: John DiLeo
+  Email: john.dileo@owasp.org
+  Image: https://owasp.wufoo.com/cabinet/f7095d1a-32f2-4ceb-a7ce-9bcfdc6ca707
+  Title: 'Threat Modeling: Getting from None to Done'
+  SectionId: john_dileo
+  Description: >-
+    This session offers an introduction to Threat Modeling (TM), based on the 
+    instructor's learning and experience developing a TM practice at his employer. 
+    We start with necessary background information, walk through techniques for 
+    building models for new and legacy systems, and wrap up with an approach for 
+    introducing TM into your SDLC.
+  Biography: >-
+    Dr. John DiLeo is the Auckland-area leader of the OWASP New Zealand Chapter, and 
+    is employed as the Application Security Architect at Orion Health, a global 
+    company specialising in health information software. In his current role, he is 
+    responsible for developing and managing the enterprise's software assurance 
+    progam, with emphasis on governance, secure development practices, and security 
+    training.
+    Before specialising in application security, John was active as a Java enterprise
+     architect and Web application developer (mostly Java EE and LAMP). In an earlier 
+     life, had had specialised in developing discrete-event simulations of large 
+     distributed systems, in a variety of languages - including the Java-based 
+     language (FreeSML) he developed as part of his doctoral research.
+    John is also a member of the core team for the OWASP Software Assurance Maturity 
+    Model (SAMM) Project, and a co-leader of the OWASP Application Security 
+    Curriculum Project.
+  Twitter: gr4ybeard
