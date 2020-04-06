@@ -21,6 +21,10 @@ The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. We will 
 - DevSecOps - Automate Security in DevOps
 
 
-
+<ul>
+  {% for trainer in site.data.trainings %}
+    <li><a href="{{trainer.URL}}">{{ trainer.Title }}</a></li>
+  {% endfor %}
+</ul>
 
 
