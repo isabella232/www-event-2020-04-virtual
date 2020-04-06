@@ -12,9 +12,10 @@
         software. He adapts application security models to the evolving field of
         DevOps and brings Threat Modeling to a wider audience (including teaching
         Whiteboard Hacking at Black Hat).
+      TrainerId: sebastien_deleersnyder
   Title: Hands-on threat modeling and tooling for DevSecOps
   URL: /register/?id=sku_H1yCWioFa4VeId
-  SectionId: sebastien_deleersnyder
+  SectionId: sku_H1yCWioFa4VeId
   Description: >-
     Action-packed Threat Modeling course for DevOps to improve reliability &
     security of software. We teach a risk-based, iterative and incremental
@@ -36,9 +37,10 @@
         He has several publications to his name and is ISEB/ISTQB, CIEH and GWAPT certified. Dave 
         teaches you how to hack web apps, automate Security, work in a DevOps way and much more 
         during his courses!
+      TrainerId: dave_von_s
   Title: DevOps for CISO
   URL: /register/?id=sku_H1yCdB8VCO5j2d
-  SectionId: dave_van_stein
+  SectionId: sku_H1yCdB8VCO5j2d
   Description: >
     Interactive training with group exercises for better understanding of the
     following topics.
@@ -85,9 +87,10 @@
         personal finance, leadership, fitness, cryptocurrency, and other such
         topics. Nithin is an avid traveler and loves sharing stories over a cup of
         hot coffee.
+      TrainerId: nithin_jois
   Title: 'Attacking and Defending Containers, Kubernetes and Serverless'
   URL: /register/?id=sku_H1yATX40ndXv3X
-  SectionId: nithin_jois
+  SectionId: sku_H1yATX40ndXv3X
   Description: >-
     Attacking and Securing an infrastructure or Applications leveraging
     containers, kubernetes and serverless technology requires specific skill set
@@ -114,9 +117,10 @@
         @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple
         presentations, pentest reports and recordings can be found at
         https://7asecurity.com/publications 
+      TrainerId: abraham_aranguren
   Title: Hacking Android and IoT apps by Example
   URL: /register/?id=sku_H1y9FEAYaVoiud
-  SectionId: abraham_aranguren
+  SectionId: sku_H1y9FEAYaVoiud
   Description: >-
     Learn about Android & IoT app security by improving your mobile security testing
     kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody
@@ -141,6 +145,7 @@
         security consultant, hosts the Absolute AppSec podcast with Ken Johnson, and
         is a regular speaker at developer meetups and security events, including
         Blackhat, Defcon, CactusCon, and other regional conferences.
+      TrainerId: seth_law
     - Name: Ken Johnson
       Email: ken@zactly.io
       Image: https://owasp.wufoo.com/cabinet/e28660cf-7b4b-4da9-82a3-f9ad35d6e233
@@ -154,8 +159,10 @@
         RubyNation, and numerous Ruby, OWASP, and AWS events about appsec, devops
         security, and AWS security. Ken’s current projects are WeirdAAL, OWASP
         Railsgoat, and the Absolute AppSec podcast with Seth Law.
+      TrainerId: ken_johnson
   Title: Seth & Ken's Excellent Adventures (in Secure Code Review)
   URL: /register/?id=sku_H1y85jGfx9gmi7
+  SectionId: sku_H1y85jGfx9gmi7
   Description: >-
     Have you been tasked with reviewing too much code in too little of time?
     What about new frameworks or languages you are unfamiliar with? This course
@@ -183,9 +190,10 @@
         and exploit vulnerabilities in them. He spends his free time learning new
         technologies,programming languages or maybe even tinkering with open source
         tools.
+      TrainerId: rohit_salecha
   Title: DevSecOps - Automate Security in DevOps
   URL: /register/?id=sku_H1xk4AgbtAFKU5
-  SectionId: rohit_salecha
+  SectionId: sku_H1xk4AgbtAFKU5
   Description: >-
     Code gets shipped into a DevOps environment at a blazing speed, making it
     extremely difficult to address security at each new release.In this training
@@ -208,9 +216,10 @@
         volunteers for the OWASP foundation as the project co-lead for the OWASP
         Application Security Verification Standard and the OWASP Proactive Controls.
         For more information, see http://www.linkedin.com/in/jmanico.
+      TrainerId: jim_manico
   Title: Building Secure API's and Web Applications
   URL: /register/?id=sku_H1xiPmSNVltwq9
-  SectionId: jim_manico
+  SectionId: sku_H1xiPmSNVltwq9
   Description: >-
     The major cause of API and web application insecurity is a lack of secure
     software development knowledge and practices. This highly intensive and
@@ -240,9 +249,10 @@
         John is also a member of the core team for the OWASP Software Assurance Maturity 
         Model (SAMM) Project, and a co-leader of the OWASP Application Security 
         Curriculum Project.
+      TrainerId: john_dileo
   Title: 'Threat Modeling: Getting from None to Done'
   URL: /register/?id=sku_H31pEBjSGDhILO
-  SectionId: john_dileo
+  SectionId: sku_H31pEBjSGDhILO
   Description: >-
     This session offers an introduction to Threat Modeling (TM), based on the 
     instructor's learning and experience developing a TM practice at his employer. 
@@ -284,9 +294,10 @@
         reasonably well, plays trombone, lives in Baltimore with his family and in his 
         non-existant spare time, is restoring a classic British sports car. Mr. Givre 
         blogs at thedataist.com and tweets @cgivre.
+      TrainerId: chris_givre
   Title: 'Applied Data Science and Machine Learning For Cyber Security'
   URL: /register/?id=sku_H33dXfccDeGYjR
-  SectionId: chris_givre
+  SectionId: sku_H33dXfccDeGYjR
   Description: >-
     This interactive course will teach security professionals how to use data science 
     techniques to quickly manipulate and analyze security data. The course will cover 

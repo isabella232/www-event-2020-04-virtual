@@ -17,7 +17,8 @@ permalink: /trainings/
 
 **Training subject to change based on trainer availability.**
 
-{% for trainer in site.data.trainings %}
+{% assign trainings = site.data.trainings | sort: 'Title' %}
+{% for trainer in trainings %}
 <section class="trainer-section" id="{{trainer.SectionId}}">
 <hr>
 <ul>
@@ -25,7 +26,7 @@ permalink: /trainings/
 <li class="training-desc">{{ trainer.Description }}</li>
     <ul>
         {% for tr in trainer.Trainers %}
-        <li style="font-size:smaller;"><hr><div class="training-container"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div><div class='trainer-container'><a href="/trainers/#{{trainer.SectionId}}">{{tr.Name}}</a></div></div><div class='trainer-container-mobile'><a href="/trainers/#{{trainer.SectionId}}">{{tr.Name}}</a></div>{{tr.Biography}}</li>
+        <li style="font-size:smaller;"><hr><div class="training-container"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div><div class='trainer-container'><a href="/trainers/#{{tr.TrainerId}}">{{tr.Name}}</a></div></div><div class='trainer-container-mobile'><a href="/trainers/#{{trainer.TrainerId}}">{{tr.Name}}</a></div>{{tr.Biography}}</li>
         {% endfor %}
     </ul>
 </ul>
