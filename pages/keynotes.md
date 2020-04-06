@@ -1,6 +1,6 @@
 ---
 
-title: Event Keynotes
+title: Virtual AppSecDays Talks
 permalink: keynotes/
 layout: event_noheader
 
