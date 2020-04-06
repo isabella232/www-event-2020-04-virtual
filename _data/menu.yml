@@ -12,8 +12,6 @@
   items:
     - title: How to Connect
       url : /venue/about/
-    - title: Progam Team
-      url  : /about/team/
     - title: OWASP Foundation
       url  : https://owasp.org/
       opentab: true
