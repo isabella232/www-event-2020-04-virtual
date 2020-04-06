@@ -16,7 +16,7 @@ The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. We will 
 ### Training Sessions hosted 12pm ET (1800 CET) Include
 
 - [DevSecOps - Automate Security in DevOps](/register/?id=sku_H1xk4AgbtAFKU5)
-- DevSecOps - Automate Security in DevOps
+- [Applied Data Science and Machine Learning For Cyber Security](https://appsecdays.org/register/?id=sku_H33dXfccDeGYjR)
 - DevSecOps - Automate Security in DevOps
 - DevSecOps - Automate Security in DevOps
 
