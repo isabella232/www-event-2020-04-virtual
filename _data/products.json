@@ -38,7 +38,7 @@
         },
         {
             "id": "sku_H1y9FEAYaVoiud",
-            "name": "Training: Hacking Android, iOS and IoT apps by Example",
+            "name": "Training: Hacking Android and IoT apps by Example",
             "amount": 49500,
             "metadata": {
                 "type": "regular",
@@ -64,7 +64,7 @@
             "amount": 49500,
             "metadata": {
                 "type": "regular",
-                "description": "<p>Interactive training with group exercises for better understanding of the following topics: (1) Agile and DevOps basics, (2) The role of automation in development, deployment, and operations, (3) Agile threat modeling, (4) Patch management in DevOps environments, (5) Incident handling feedback loops, (6) Cloud challenges and advantages, (7) Combining SRE and DevSecOps. <em>Presented by Marinus Kuivenhoven</em></p>",
+                "description": "<p>Interactive training with group exercises for better understanding of the following topics: (1) Agile and DevOps basics, (2) The role of automation in development, deployment, and operations, (3) Agile threat modeling, (4) Patch management in DevOps environments, (5) Incident handling feedback loops, (6) Cloud challenges and advantages, (7) Combining SRE and DevSecOps. <em>Presented by Dave van Stein</em></p>",
                 "discountable": "True",
                 "display_order": "7"
             }
@@ -78,6 +78,17 @@
                 "description": "<p>Action-packed Threat Modeling course for DevOps to improve reliability &amp; security of software. We teach a risk-based, iterative and incremental threat modeling method. At least 50% hands-on workshops covering the different stages of threat modeling on an incremental business driven CI/CD scenario for AWS. 94% satisfaction score O’Reilly Velocity. <em>Presented by Sebastien Deleersnyder</em></p>",
                 "discountable": "True",
                 "display_order": "8"
+            }
+        },
+        {
+            "id": "sku_H31pEBjSGDhILO",
+            "name": "Training: Threat Modeling: Getting from None to Done",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This session offers an introduction to Threat Modeling (TM), based on the instructor's learning and experience developing a TM practice at his employer. We start with necessary background information, walk through techniques for building models for new and legacy systems, and wrap up with an approach for introducing TM into your SDLC. <em>Presented by John DiLeo</em></p>",
+                "discountable": "True",
+                "display_order": "9"
             }
         }
     ]
