@@ -17,7 +17,7 @@ The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. We will 
 
 
 * #### Register for the class you want by clicking below 
-* #### (more information can be found on the [Training](/trainings/) page)
+* *(more information can be found on the [Training](/trainings/) page)*
 <ul>
   {% assign trainings = site.data.trainings | sort: 'Title' %}
   {% for trainer in trainings %}
