@@ -13,7 +13,7 @@ layout: event
 
 The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. We will be running a 90 minute virtual mini-conference Monday, April 27, followed by 8-hour virtual training courses offered in 4-hour blocks on the 28th-29th. The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.
      
-### Training Sessions hosted each day 12pm ET (1800 CET)
+### Training Sessions hosted 12pm ET (1800 CET) Include
 
 - DevSecOps - Automate Security in DevOps
 - DevSecOps - Automate Security in DevOps
