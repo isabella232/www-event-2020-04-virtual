@@ -2,6 +2,7 @@ title: OWASP Virtual AppSec Days April 2020
 dates: April 27-29, 2020
 training: April 28-29 (4 hours each day)
 conference: April 27 (details coming soon)
+CTF: April 30-May 1
 registration_url: /register/
 venue: Your Computer
 location: Your Desk
@@ -9,5 +10,7 @@ background: image.png
 color: 797979
 analytics: UA-4531126-14
 pitch: "OWASP Foundation will be holding a Virtual AppSec Days on April 27-29th. We will be running a 90 minute 
-         virtual mini-conference Monday, April 27, followed by 8-hour virtual training courses offered in 
-         4-hour blocks on the 28th-29th. The trainings will begin at 12pm Eastern Time (USA) / 1800 Central European Time."
+         virtual mini-conference Monday, April 27, followed by 11 8-hour virtual training courses offered in 
+         4-hour blocks on the 28th-29th. The trainings will begin at 12pm Eastern Time (USA) / 1800 Central European Time.
+         
+         The event wraps-up with a virtual CTF hosted by Security Innovation. Put your skills to the test in this 48-hour competition."
