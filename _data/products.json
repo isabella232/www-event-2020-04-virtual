@@ -101,6 +101,17 @@
                 "discountable": "True",
                 "display_order": "10"
             }
+        },
+        {
+            "id": "sku_H3EBtcCxSzdJvn",
+            "name": "Training: Your Application Security Program",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Bring your application Security Program from zero to hero with this 1/2 day planning course. We will learn; planning, scaling, and measuring your AppSec Program. We will cover; tooling, where to start, how to measure, creating a security champions program, developer education, and more. Course will include written exercises and discussion. <em>Presented by Tanya Janca</em></p>",
+                "discountable": "True",
+                "display_order": "11"
+            }
         }
     ]
 }
