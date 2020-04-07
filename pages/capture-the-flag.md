@@ -14,4 +14,4 @@ For each vulnerability you uncover, you are awarded points. Climb the interactiv
 
 **All you need is your laptop and inner evil-doer!**
 
-Register early to reserve your spot and get a sneak peek at our cheat sheets and FAQs! 
+<button class='cta-button grey' onclick="location.href='/register/?id=sku_H3QHzTjvFeE2EC'">Register</button> early to reserve your spot and get a sneak peek at our cheat sheets and FAQs! 
