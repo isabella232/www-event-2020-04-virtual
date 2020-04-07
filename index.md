@@ -7,7 +7,7 @@ layout: event
 
 <!-- rebuild 9-->
 
-{{ site.data.event-details.pitch }}
+{{ site.data.event-details.pitch | markdownify }}
      
 ### Training Sessions hosted 12pm ET (1800 CET) Include
 
