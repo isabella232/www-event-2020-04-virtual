@@ -88,7 +88,7 @@
                 "type": "regular",
                 "description": "<p>This session offers an introduction to Threat Modeling (TM), based on the instructor's learning and experience developing a TM practice at his employer. We start with necessary background information, walk through techniques for building models for new and legacy systems, and wrap up with an approach for introducing TM into your SDLC. <em>Presented by John DiLeo</em></p>",
                 "discountable": "True",
-                "display_order": "8"
+                "display_order": "6"
             }
         },
         {
