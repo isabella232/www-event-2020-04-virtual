@@ -14,6 +14,8 @@ permalink: /sponsors/
 * Bring more value to your employees to help them perform their job better or advance in their career 
 * Build your companies reputation by supporting a 501(c)(3) non-for profit organization
 
+Sponsors are encouraged to hold a virtual drawing to collect leads.  Share with us your prize and the url for attendees to enter your drawing and we will help promote it on the event website, in pre-event emails, in the pre-event blog post and any other pre-event communications.  This opportunity  is available to all sponsorship levels.
+
 ### **Option #1 $1,000 USD**
 * Logo on official event webpage
 * Mention on a slide prior to the actual training slide	
@@ -32,3 +34,4 @@ permalink: /sponsors/
 * Savings of $750!
 
 **Donations in other amounts are welcomed and certainly appreciated!**
+
