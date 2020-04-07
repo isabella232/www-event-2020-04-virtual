@@ -5,4 +5,5 @@
 - title: Member Training Courses*
   price: $445
   info: "* for member discount code contact events@owasp.org"
-          
+- title: CTF
+  price: $25         

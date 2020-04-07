@@ -12,6 +12,9 @@ Welcome to Virtual AppSec Days April 2020 presented by the OWASP Foundation. Ple
 
 You may also receive communications from the instructor with specific requirements or pre-work for your course. 
 
+**Please note: All courses take place simultaneously over 2 days, please only register for 1.**
+
+*For member discount code please email events@owasp.org*
 
 {% include registration_form.md primary_color="#0079a7" %}
 
