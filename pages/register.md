@@ -14,7 +14,7 @@ You may also receive communications from the instructor with specific requiremen
 
 **Please note: All courses take place simultaneously over 2 days, please only register for 1.**
 
-*for member discount code please email [events@owasp.org]*
+*For member discount code please email events@owasp.org*
 
 {% include registration_form.md primary_color="#0079a7" %}
 
