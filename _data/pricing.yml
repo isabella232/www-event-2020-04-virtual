@@ -4,4 +4,5 @@
   price: $495 
 - title: Member Training Courses*
   price: $445
-          
+- title: CTF
+  price: $25         
