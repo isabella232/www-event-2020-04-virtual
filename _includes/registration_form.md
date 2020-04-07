@@ -273,10 +273,10 @@
         <multi-select v-bind:options="personaOptions" v-model="persona" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Select your persona (required)"></multi-select>
         <div class="error-text" v-if="errors.persona">{{ errors.persona[0] }}</div>
       </div>
-      <div class="extra-pad">
+      <!-- <div class="extra-pad">
         <multi-select v-bind:options="dietaryRestrictionOptions" v-model="dietary_restrictions" v-bind:searchable="false" v-bind:multiple="true" v-bind:show-labels="false" placeholder="Select your dietary restrictions (if any)"></multi-select>
         <div class="error-text" v-if="errors.dietary_restrictions">{{ errors.dietary_restrictions[0] }}</div>
-      </div>
+      </div> -->
       <div class="extra-pad">
         <label class="checkbox-container">Agree to Terms of Purchase & Attendance <sup><strong>*</strong></sup>
           <input type="checkbox" v-model="terms_of_purchase">
@@ -324,7 +324,7 @@ window.addEventListener('load', function () {
       discount_code: null,
       name: null,
       title: null,
-      dietary_restrictions: null,
+      //dietary_restrictions: null,
       experience: null,
       persona: null,
       country: null,
@@ -345,16 +345,16 @@ window.addEventListener('load', function () {
         'Builder',
         'Breaker',
 	'Other'
-      ],
-      dietaryRestrictionOptions: [
-        'Gluten-Free',
-        'Halal',
-        'Kosher',
-        'Nut Allergy',
-        'Shellfish Allergy',
-        'Vegan',
-        'Vegetarian'
-      ]
+       ]//,
+      // dietaryRestrictionOptions: [
+      //   'Gluten-Free',
+      //   'Halal',
+      //   'Kosher',
+      //   'Nut Allergy',
+      //   'Shellfish Allergy',
+      //   'Vegan',
+      //   'Vegetarian'
+      // ]
     },
     components: {
       MultiSelect: window.VueMultiselect.default
@@ -439,7 +439,7 @@ window.addEventListener('load', function () {
             company: vm.company,
             email: vm.email,
             title: vm.title,
-            dietary_restrictions: vm.dietary_restrictions,
+            //dietary_restrictions: vm.dietary_restrictions,
             experience: vm.experience,
             persona: vm.persona,
             country: vm.country,
