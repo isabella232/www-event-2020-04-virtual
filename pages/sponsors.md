@@ -35,3 +35,4 @@ Sponsors are encouraged to hold a virtual drawing to collect leads.  Share with 
 
 **Donations in other amounts are welcomed and certainly appreciated!**
 
+If you are interested in learning more or would like to secure a sponsorship, please contact [Kelly Santalucia](mailto:kelly.santalucia@owasp.org)
