@@ -9,9 +9,9 @@ location: Your Desk
 background: image.png
 color: 797979
 analytics: UA-4531126-14
-pitch: "## Improve your AppSec Skills for a Great Price
-
-        ![Trainers Photo Strip](/assets/images/trainers/trainers-strip-small.jpg)
+pitch: "![Trainers Photo Strip](/assets/images/trainers/trainers-strip-small.jpg)
+        
+        ## Improve your AppSec Skills for a Great Price
         
         The OWASP Foundation is hosting a Virtual AppSec Days on April 27-29th. 
         We will be running a 90 minute virtual mini-conference Monday, April 27, 
