@@ -213,8 +213,8 @@
     <h2 style="margin-bottom: 30px;">Select your Tickets</h2>
     <div class="error-text" v-if="errors.product">{{ errors.product[0] }}</div>
     <div class="ticket-option" v-for="product in productListing">
-        <div :id="product.sku" class="ticket-option-information">
-        <section :id="product.sku"></section>
+        <div v-bind:id="product.sku" class="ticket-option-information">
+          <section v-bind:id="product.sku"></section>
           <div class="ticket-option-title" v-on:click="toggleProduct(product.sku)">{{ product.name }}</div>
           <div class="ticket-option-description" v-html="product.description"></div>
         </div>
