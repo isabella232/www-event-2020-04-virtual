@@ -273,10 +273,10 @@
         <multi-select v-bind:options="personaOptions" v-model="persona" v-bind:searchable="false" v-bind:show-labels="false" placeholder="Select your persona (required)"></multi-select>
         <div class="error-text" v-if="errors.persona">{{ errors.persona[0] }}</div>
       </div>
-      <!-- <div class="extra-pad">
+      <div class="extra-pad" v-if="showDietaryRestrictions">
         <multi-select v-bind:options="dietaryRestrictionOptions" v-model="dietary_restrictions" v-bind:searchable="false" v-bind:multiple="true" v-bind:show-labels="false" placeholder="Select your dietary restrictions (if any)"></multi-select>
         <div class="error-text" v-if="errors.dietary_restrictions">{{ errors.dietary_restrictions[0] }}</div>
-      </div> -->
+      </div>
       <div class="extra-pad">
         <label class="checkbox-container">Agree to Terms of Purchase & Attendance <sup><strong>*</strong></sup>
           <input type="checkbox" v-model="terms_of_purchase">
@@ -289,8 +289,16 @@
         </label>
       </div>
       <div class="button-discount-code-container">
-        <div style="margin-right: 80px;">
-          <button class="cta-button purchase-button" type="submit" v-bind:disabled="loading">Purchase Ticket</button>
+        <div style="margin-right: 80px; width: 40%;">
+          <div v-if="loading" style="display: flex;">
+	    <div style="margin-right: 10px; align-self: center;">
+	      <i class="fa-2x fas fa-spinner fa-spin"></i>
+	    </div>
+            <div style="font-size: 14px; align-self: center;">Preparing your purchase...</div>
+          </div>
+          <div v-else>
+            <button class="cta-button purchase-button" type="submit">Purchase Ticket</button>
+          </div>
         </div>
         <div style="flex: 1;">
           <input type="text" class="discount_code" v-model="discount_code" aria-label="Discount Code" placeholder="Discount Code (if applicable)" />
@@ -308,13 +316,14 @@
 <script src="https://unpkg.com/vue"></script>
 <script src="https://js.stripe.com/v3"></script>
 <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/solid.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue-scrollto"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script src="https://unpkg.com/vue-multiselect@2.1.0"></script>
 <link rel="stylesheet" href="https://unpkg.com/vue-multiselect@2.1.0/dist/vue-multiselect.min.css">
 <script>
-var stripe = Stripe('pk_live_mw0B2kiXQTFkD44liAEI03oT00S5AGfSV3');
+var stripe = Stripe('{{ include.stripe_key | default: "pk_live_mw0B2kiXQTFkD44liAEI03oT00S5AGfSV3" }}');
 window.addEventListener('load', function () {
   const app = new Vue({
     data: {
@@ -325,7 +334,7 @@ window.addEventListener('load', function () {
       discount_code: null,
       name: null,
       title: null,
-      //dietary_restrictions: null,
+      dietary_restrictions: null,
       experience: null,
       persona: null,
       country: null,
@@ -346,16 +355,17 @@ window.addEventListener('load', function () {
         'Builder',
         'Breaker',
 	'Other'
-       ]//,
-      // dietaryRestrictionOptions: [
-      //   'Gluten-Free',
-      //   'Halal',
-      //   'Kosher',
-      //   'Nut Allergy',
-      //   'Shellfish Allergy',
-      //   'Vegan',
-      //   'Vegetarian'
-      // ]
+      ],
+      dietaryRestrictionOptions: [
+        'Gluten-Free',
+        'Halal',
+        'Kosher',
+        'Nut Allergy',
+        'Shellfish Allergy',
+        'Vegan',
+        'Vegetarian'
+      ],
+      showDietaryRestrictions: {{ include.show_dietary_restrictions | default: true }}
     },
     components: {
       MultiSelect: window.VueMultiselect.default
@@ -440,21 +450,25 @@ window.addEventListener('load', function () {
             company: vm.company,
             email: vm.email,
             title: vm.title,
-            //dietary_restrictions: vm.dietary_restrictions,
+            dietary_restrictions: vm.dietary_restrictions,
             experience: vm.experience,
             persona: vm.persona,
             country: vm.country,
             city: vm.city,
-            sku: vm.selectedProducts[0],
+            sku: vm.selectedProducts,
             discount_code: vm.discount_code,
             mailing_list: vm.mailing_list
           }
-          axios.post('https://owaspadmin.azurewebsites.net/api/EventsCheckout?code=qIyazIloMxpvGtTkSI0cXNoDEwzNIcFe9xp7bGm54t0lakuBEKJ73Q==', postData).then(function (response) {
-	    stripe.redirectToCheckout({
-	      sessionId: response.data.data.session_id
-	    }).then(function (result) {
-	      console.log(result.error.message)
-	    }); 
+          axios.post('{{ include.checkout_url | default: "https://owaspadmin.azurewebsites.net/api/EventsCheckout?code=qIyazIloMxpvGtTkSI0cXNoDEwzNIcFe9xp7bGm54t0lakuBEKJ73Q==" }}', postData).then(function (response) {
+            if (response.data.data.response_type && response.data.data.response_type === 'redirect') {
+              window.location.href = response.data.data.redirect_url
+            } else {
+              stripe.redirectToCheckout({
+                sessionId: response.data.data.session_id
+              }).then(function (result) {
+                console.log(result.error.message)
+              }); 
+            }
 	  }).catch(function (error) {
 	    vm.errors = error.response.data.errors
 	    vm.loading = false
