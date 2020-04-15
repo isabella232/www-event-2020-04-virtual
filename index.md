@@ -61,7 +61,9 @@ layout: event
 <!-- rebuild 9-->
 
 {{ site.data.event-details.pitch | markdownify }}
-     
+
+ **[Check out our sponsors for a chance to win some cool prizes](https://appsecdays.org/sponsors/swag/)**
+
 ### Training Sessions hosted 12pm ET (1800 CET) Include
 
 

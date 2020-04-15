@@ -6,6 +6,8 @@ permalink: /sponsors/swag/
 
 ---
 
+## {{ page.title | remove: '| Support Our Sponsors'}}
+
 This is your chance to grab some swag.  The sponsors below are providing the stated items to a randomly selected individual from among those who check out their demos:
 
 ### [![Acunetix](https://owasp.org/assets/images/corp-member-logo/acunetix.png){:width='150px'}](https://www.acunetix.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
