@@ -121,7 +121,7 @@
                 "type": "regular",
                 "description": "<p>During this interactive training, the participants will be able to identify the top 5 critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures. The students will utilize OWASP WebGoat 8.0 and OWASP ZAP to solve the exercises presented during the virtual class. <em>Presented by Fabio Cerullo</em></p>",
                 "discountable": "True",
-                "display_order": "9"
+                "display_order": "8"
             }
         },
         {
