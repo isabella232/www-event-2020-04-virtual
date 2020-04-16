@@ -134,6 +134,16 @@
                 "discountable": "True",
                 "display_order": "34"
             }
+        },
+        {
+            "id": "sku_H6s3F6u8O6JsFU",
+            "name": "Conference: Registration",
+            "amount": 0,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Join AppSec visionaries for a series of lightning talks on April 27th</p>",
+                "display_order": "35"
+            }
         }
     ]
 }
