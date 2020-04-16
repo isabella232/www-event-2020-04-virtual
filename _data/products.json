@@ -22,7 +22,7 @@
                 "type": "regular",
                 "description": "<p>Code gets shipped into a DevOps environment at a blazing speed, making it extremely difficult to address security at each new release.In this training we shall discuss how to address security issues by automating security in a DevOps environment utilising various tools and techniques. Attendees will also get a DevSecOps-Lab used during the course. <em>Presented by Rohit Salecha</em></p>",
                 "discountable": "True",
-                "display_order": "-19"
+                "display_order": "-21"
             }
         },
         {
