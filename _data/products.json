@@ -99,7 +99,7 @@
                 "type": "regular",
                 "description": "<p>This interactive course will teach security professionals how to use data science techniques to quickly manipulate and analyze security data. The course will cover the entire data science process from data preparation, exploratory data analysis, data visualization, machine learning, and model evaluation—all with a focus on security related problems. <em>Presented by Charles Givre</em></p>",
                 "discountable": "True",
-                "display_order": "10"
+                "display_order": "3"
             }
         },
         {
