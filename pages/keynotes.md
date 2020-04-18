@@ -9,7 +9,6 @@ layout: event_noheader
 # {{page.title}}
 <br>
 <div class="keynote-full">
-
 {% for speaker in site.data.keynotespeakers %}
 		{% if speaker.name %}
 		<div>
