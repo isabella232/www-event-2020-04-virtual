@@ -1,7 +1,14 @@
-# - image: kn_john_steven.png
-#   name: John Steven
-#   title: 
-#   bio: "For two decades, John led technical direction at Cigital, where he rose to the position of co-CTO. He founded spin-off Codiscope as CTO in 2015. When both firms were acquired by Synopsys in 2016, John transitioned to the role of Senior Director of Security Technology and Applied Research. His expertise runs the gamut of software security—from threat modeling and architectural risk analysis to static analysis and security testing. John is keenly interested in using orchestration and automation to provide security governance at the cadence of modern development. As a trusted adviser to security executives, he uses his unparalleled experience with a broad range of security tools to build and mature security programs. He has served as co-editor of the Building Security In department of IEEE Security & Privacy magazine and as the leader of the Northern Virginia OWASP chapter. John is regularly invited to speak, including keynotes at AppSecUSA and BSIMM."
-#   subject:  
-#   abstract:
-#   style: "background-position-y: -25px;"
+- image: ajv_headshot.png
+  name: Andrew van der Stock
+  title: 
+  bio: "Andrew is a long-standing contributor to and member of OWASP, having lead the OWASP Developer Guide 2.0, OWASP Top 10 2007 and 2017, and Application Security Verification Standard projects. He was previously a board member from 2015-2018. He is currently working on the OWASP Top 10 2020."
+  subject: OWASP Top 10 2020 
+  abstract: "The OWASP Top 10 2020 is coming. The OWASP Top 10 is one of OWASP's core flagship projects, and for better or worse, despite being an awareness document, is commonly used as a standard. Therefore, we need to get it right and include the application security community's buy-in on the risks and mitigations. Learn about the current progress, what needs to be done, and how you can help by contributing data and expertise. We plan to release the OWASP Top 10 2020 later this year."
+  style: 
+- image: mark_goodwin.jpg
+  name: Mark Goodwin
+  title: 
+  bio: "Mark is a software security specialist with decades of experience in building and securing Internet facing systems. Mark currently works for Mozilla on the Firefox web browser."
+  subject:
+  abstract:
+  style:
