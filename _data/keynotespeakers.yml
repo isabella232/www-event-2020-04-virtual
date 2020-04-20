@@ -13,9 +13,9 @@
         <br>Michael has also served on the global board of directors for OWASP, the largest non-profit application organization in the world. Michael was a member of the board for six years, three of those years as the chairman.
         <br>Before building and leading security programs, Michael assessed, compromised, and secured applications and networks for some of the largest banks, governments, and enterprises around the world.
         <br>Michael is an early stage investor and advisor to multiple startups and was also honored to be selected as an SC Magazine Influential Security Mind. Michael is based in San Francisco with his wife, two children, and two dogs."
-  subject:
-  abstract:
-  style: "background-position: calc(50% - 50px) 50%"
+  subject: "Building and growing an application security team - lessons from a CISO perspective"
+  abstract: "Application security is already a challenging and complex field. Add to that the challenge of building and maintaining a talented security organization, forging internal alliances, and positioning the application security program as an enabler versus a cost center. It's quite the challenge! In this speed talk we'll cover strategies and tips for building a successful application security program within a business from someone who started the web security program at Mozilla, was CISO at Twitter and had roots as a security practitioner for many years."
+  style: "background-position: calc(50% - 40px) 50%"
 - image: mark_goodwin.jpg
   name: Mark Goodwin
   title: Software Security Specialist
