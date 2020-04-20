@@ -1,5 +1,4 @@
-
-<h3>Featured Speakers</h3>
+<h3>Featured Conference Speakers</h3>
 <ul>
 {% for speaker in site.data.keynotespeakers %}
     {% if speaker.name %}
