@@ -10,6 +10,7 @@ layout: event_noheader
 <br>
 <div class="keynote-full">
 {% for speaker in site.data.keynotespeakers %}
+<hr>
 		{% if speaker.name %}
 		<div>
 		    <a name="{{speaker.name}}"><img style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};"></a>
