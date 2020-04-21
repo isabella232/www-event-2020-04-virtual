@@ -7,6 +7,10 @@
   name: Acunetix
   url: https://www.acunetix.com
   type: corporate
+- logo: https://owasp.org/assets/images/corp-member-logo/devsecopsacad.png
+  name: DevSecOps Academy 
+  url: http://www.devsecops-academy.com/
+  type: corporate
 - logo: https://owasp.org/assets/images/corp-member-logo/netsparker.png
   name: netsparker
   url: https://www.netsparker.com
