@@ -11,12 +11,12 @@ permalink: /trainings/
 # {{ page.title }}
 <br>
 
-* **Monday, April 27** at
+**Monday, April 27** at
 * 12:00pm to 1:30pm EDT/1800pm to 2000pm CET 
 * Free Lightning Conference
 * Register for login instructions
 
-* **Tuesday, April 28** and **Wednesday, April 29** at
+**Tuesday, April 28** and **Wednesday, April 29** at
 * 12:00pm to 4:00pm EDT/1800pm to 2000pm CET 
 
 
