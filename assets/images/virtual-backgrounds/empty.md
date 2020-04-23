@@ -6,12 +6,8 @@ permalink: /backgrounds/
 
 ---
 
-
 # {{page.title}}
-
-![Solid](https://owasp.org/www-event-2020-04-virtual/assets/images/virtual-backgrounds/OWASP-Virtual-Background-center-v1.png | width=100)
-
-![](https://owasp.org/www-event-2020-04-virtual/assets/images/virtual-backgrounds/OWASP-Virtual-Background-center-v2.png | width=100)
+Right-mouse click on the background and "Save Image As...". Then in Zoom, set your Background Image
 
 ### Square-ish Screen Options
 <img src="https://owasp.org/www-event-2020-04-virtual/assets/images/virtual-backgrounds/OWASP-Virtual-Background-center-v1.png" height="200">
