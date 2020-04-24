@@ -10,7 +10,7 @@ permalink: /venue/about/
 <br>
 
 **Virtual AppSec Days Conference - Monday**
-To join the event, please use https://zoom.us/webinar/register/WN_R3ibjzksTiGANv8H8I4mlg
+To join the event, please use the link that will be provided to registrants via email before the event. 
 
 If you are unable to join the conference via the link, we will also be livestreaming on the [OWASP YouTube channel](https://www.youtube.com/user/OWASPGLOBAL)
 
