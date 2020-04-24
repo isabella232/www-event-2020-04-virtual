@@ -9,6 +9,10 @@ permalink: /venue/about/
 # {{ page.title }}
 <br>
 
-Stay tuned for more information on how to connect and the links to the live feed.
+**Virtual AppSec Days Conference - Monday**
+To join the event, please use https://zoom.us/webinar/register/WN_R3ibjzksTiGANv8H8I4mlg
 
-The mini-conference will be broadcast to YouTube on our [channel](https://www.youtube.com/user/OWASPGLOBAL)
+If you are unable to join the conference via the link, we will also be livestreaming on the OWASP YouTube channel: https://www.youtube.com/user/OWASPGLOBAL 
+
+**Virtual Training Courses - Tuesday & Wednesday**
+Three hours prior to the beginning of the training you will receive a link to your specific training course. You will need to enter your name and email address in order to gain access to the training room. It is important that you use the same email address that you registered with. If your email address does not match, you will not be automatically admitted into the course.
