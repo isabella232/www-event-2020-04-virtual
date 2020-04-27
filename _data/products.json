@@ -66,7 +66,8 @@
                 "type": "regular",
                 "description": "<p>Interactive training with group exercises for better understanding of the following topics: (1) Agile and DevOps basics, (2) The role of automation in development, deployment, and operations, (3) Agile threat modeling, (4) Patch management in DevOps environments, (5) Incident handling feedback loops, (6) Cloud challenges and advantages, (7) Combining SRE and DevSecOps. <em>Presented by Dave van Stein</em></p>",
                 "discountable": "True",
-                "display_order": "-18"
+                "display_order": "-18",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -77,7 +78,8 @@
                 "type": "regular",
                 "description": "<p>Action-packed Threat Modeling course for DevOps to improve reliability &amp; security of software. We teach a risk-based, iterative and incremental threat modeling method. At least 50% hands-on workshops covering the different stages of threat modeling on an incremental business driven CI/CD scenario for AWS. 94% satisfaction score O’Reilly Velocity. <em>Presented by Sebastien Deleersnyder</em></p>",
                 "discountable": "True",
-                "display_order": "-14"
+                "display_order": "-14",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -110,7 +112,8 @@
                 "type": "regular",
                 "description": "<p>Bring your application Security Program from zero to hero with this 1/2 day planning course. We will learn; planning, scaling, and measuring your AppSec Program. We will cover; tooling, where to start, how to measure, creating a security champions program, developer education, and more. Course will include written exercises and discussion. <em>Presented by Tanya Janca</em></p>",
                 "discountable": "True",
-                "display_order": "8"
+                "display_order": "-1",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -147,7 +150,8 @@
                 "type": "regular",
                 "description": "<p>Join AppSec experts on April 27th for a series of short talks. This part of the program is a $FREE Webinar</p>",
                 "display_order": "34",
-                "discountable": "False"
+                "discountable": "False",
+                "display_end": "2020-04-26"
             }
         }
     ]
