@@ -11,7 +11,8 @@
                 "type": "regular",
                 "description": "<p>The major cause of API and web application insecurity is a lack of secure software development knowledge and practices. This highly intensive and interactive 1-day workshop provides essential application security training for web application and API developers. This workshop is a combination of lecture, security testing, and code review. <em>Presented by Jim Manico</em></p>",
                 "discountable": "True",
-                "display_order": "-28"
+                "display_order": "-28",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -22,7 +23,8 @@
                 "type": "regular",
                 "description": "<p>Code gets shipped into a DevOps environment at a blazing speed, making it extremely difficult to address security at each new release.In this training we shall discuss how to address security issues by automating security in a DevOps environment utilising various tools and techniques. Attendees will also get a DevSecOps-Lab used during the course. <em>Presented by Rohit Salecha</em></p>",
                 "discountable": "True",
-                "display_order": "-29"
+                "display_order": "-29",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -33,7 +35,8 @@
                 "type": "regular",
                 "description": "<p>Have you been tasked with reviewing too much code in too little of time? What about new frameworks or languages you are unfamiliar with? This course addresses these common challenges in modern secure code review. Sharpen your code review techniques by gleaning from our adventures in code review and the lessons we’ve learned along the way. <em>Presented by Ken Johnson and Seth Law</em></p>",
                 "discountable": "True",
-                "display_order": "-26"
+                "display_order": "-26",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -44,7 +47,8 @@
                 "type": "regular",
                 "description": "<p>Learn about Android &amp; IoT app security by improving your mobile security testing kung-fu. Ideal for Penetration Testers, Mobile Developers and everybody interested in mobile app security. All action, no fluff, skills gained are 100% hands-on, includes lifetime access to training portal with detailed video recordings + all future updates for free. <em>Presented by Abraham Aranguren</em></p>",
                 "discountable": "True",
-                "display_order": "-22"
+                "display_order": "-24",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -55,7 +59,8 @@
                 "type": "regular",
                 "description": "<p>Attacking and Securing an infrastructure or Applications leveraging containers, kubernetes and serverless technology requires specific skill set and a deep understanding of the underlying architecture. The Training will be filled with demos designed from real-world attacks to help understand all there is to attack and secure such applications. <em>Presented by Nithin Jois</em></p>",
                 "discountable": "True",
-                "display_order": "-21"
+                "display_order": "-21",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -90,7 +95,8 @@
                 "type": "regular",
                 "description": "<p>This session offers an introduction to Threat Modeling (TM), based on the instructor's learning and experience developing a TM practice at his employer. We start with necessary background information, walk through techniques for building models for new and legacy systems, and wrap up with an approach for introducing TM into your SDLC. <em>Presented by John DiLeo</em></p>",
                 "discountable": "True",
-                "display_order": "-9"
+                "display_order": "-9",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -101,7 +107,8 @@
                 "type": "regular",
                 "description": "<p>This interactive course will teach security professionals how to use data science techniques to quickly manipulate and analyze security data. The course will cover the entire data science process from data preparation, exploratory data analysis, data visualization, machine learning, and model evaluation—all with a focus on security related problems. <em>Presented by Charles Givre</em></p>",
                 "discountable": "True",
-                "display_order": "1"
+                "display_order": "-2",
+                "display_end": "2020-04-26"
             }
         },
         {
@@ -124,7 +131,8 @@
                 "type": "regular",
                 "description": "<p>During this interactive training, the participants will be able to identify the top 5 critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures. The students will utilize OWASP WebGoat 8.0 and OWASP ZAP to solve the exercises presented during the virtual class. <em>Presented by Fabio Cerullo</em></p>",
                 "discountable": "True",
-                "display_order": "0"
+                "display_order": "0",
+                "display_end": "2020-04-26"
             }
         },
         {
