@@ -15,6 +15,7 @@ permalink: /trainings/
 * Free Lightning Conference
 * 12:00pm to 1:30pm EDT/1800pm to 2000pm CET 
 * Register for login instructions
+* Will be livestreamed to our [YouTube channel](https://www.youtube.com/OWASPGlobal)
 
 **Tuesday, April 28** and **Wednesday, April 29** 
 * Virtual Training Courses
