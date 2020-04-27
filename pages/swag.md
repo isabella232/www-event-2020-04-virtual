@@ -14,7 +14,7 @@ This is your chance to grab some swag.  The sponsors below are providing the sta
 * $100 Amazon Gift Card
 * Check out the demo [here](https://www.acunetix.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
 
-### [![DevSecOps Academy](https://owasp.org/assets/images/corp-member-logo/devsecopsacad.png){:width='150px'}](http://www.devsecops-academy.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
+### [![DevSecOps Academy](https://owasp.org/assets/images/corp-member-logo/devsecopsacad.png){:width='150px'}](https://us20.list-manage.com/survey?u=df838d09f83cf22ff57a71110&id=b37d5ed935)
 * A free course on the DevSecOps Academy platform
 * Fill out the [survey]( https://us20.list-manage.com/survey?u=df838d09f83cf22ff57a71110&id=b37d5ed935) for future drawing of one lucky winner.
 
@@ -22,6 +22,6 @@ This is your chance to grab some swag.  The sponsors below are providing the sta
 * $100 Amazon Gift Card
 * Check out the demo [here](https://www.netsparker.com/?utm_source=tradeshow&utm_medium=event&utm_campaign=owaspvirtualappsec20)
 
-### [![ZeroNorth](https://owasp.org/assets/images/corp-member-logo/zeronorth.png){:width='150px'}](https://go.zeronorth.io/l/322601/2020-04-15/34b332)
+### [![ZeroNorth](https://owasp.org/assets/images/corp-member-logo/zeronorth.png){:width='150px'}](https://www.zeronorth.io/owasp-virtual-appsec-day/)
 * $500 and $100 Amazon Gift Cards
-* Enter for a chance to win [here](https://go.zeronorth.io/l/322601/2020-04-15/34b332) 
+* Enter for a chance to win [here](https://www.zeronorth.io/owasp-virtual-appsec-day/) 
