@@ -8,7 +8,7 @@ layout: event_noheader
 
 ## Registration 
 <br>
-### Registration is for the Virtual Training Courses is now closed.
+### Registration is closed.
 <br>
 
 If you already registered for a training course, three hours prior to the beginning of the training you will receive a link to your specific training course.
@@ -17,7 +17,5 @@ You will need to enter your name and email address in order to gain access to th
 You may also receive communications from the instructor with specific requirements or pre-work for your course. 
 
 Also, **[check out our sponsors for a chance to win some cool prizes](https://appsecdays.org/sponsors/swag/)**
-
-{% include registration_form.md show_dietary_restrictions="false" primary_color="#0079a7" %}
 
 Questions? [events@owasp.com](mailto:events@owasp.com?subject=Virtual%20AppSec%20Days%20Inquiry)
